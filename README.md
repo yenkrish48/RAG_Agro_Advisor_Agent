@@ -85,7 +85,7 @@ A complete RAG system that answers questions from your own documents with:
 ### Installation
 ```bash
 # 1. Clone the repository
-git clone https://github.com/NisargKadam/rag-fitness-agent.git
+git clone https://github.com/yenkrish48/RAG_Agro_Advisor_Agent.git
 cd agro_advisor_agent
 
 # 2. Create virtual environment
